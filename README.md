@@ -17,7 +17,7 @@ The tool is automaticly trying to take the system default GUI
 If you haven't modified. It will takes the 'metal' look an feel.
 You can modify this with this command (add in you .bashrc) : 
 ```bash
-	export _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
+export _JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true -Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel'
 ```
 
 Better now ? :)
